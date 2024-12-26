@@ -1,2 +1,3 @@
 Changes from master branch
 Changes from conflict branch
+Another changes from conflict branch
